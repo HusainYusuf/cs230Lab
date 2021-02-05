@@ -4,6 +4,8 @@
     <div class="about">
         <h1>About Us </h1>
         <p>For Weebs By Weebs</p>
+        <p>Four passionate anime enthusiasts band together to confirm or deny your trashy tastes in the popular Japanese medium</p>
+        <p>Blogs, rating series, anime news, and much more!</p>
     </div>
 
 <div class="row">
