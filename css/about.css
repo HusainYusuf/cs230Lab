@@ -1,0 +1,31 @@
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    
+    p {
+        color: black;
+    }
+    
+    .about {
+        background: rosybrown;
+        padding: 8px;
+    }
+    
+    img {
+        height: 150px;
+        width: 150px;
+    }
+    
+    .column {
+        float: inherit;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        width: 25%;
+    }
+    
+    .card {
+        box-shadow: 5px 5px 5px 0 #b3b3b3;
+        padding: 0 15px 0 15px;
+        width: 60%;
+    }
