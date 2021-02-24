@@ -1,0 +1,19 @@
+.center-me{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+}
+
+#prof-display{
+    display: block;
+    width: 150px;
+    margin: 10px auto;
+    border-radius: 25%;
+}
+
+#uname-style{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: unset;
+}

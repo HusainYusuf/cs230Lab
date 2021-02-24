@@ -46,7 +46,7 @@ else{
         mysqli_stmt_execute($statement);
         mysqli_stmt_store_result($statement);
 
-        $sqlImg = "INSERT INTO profiles (unname, fname) VALUES ('$username', '$fname')";
+        $sqlImg = "INSERT INTO profiles (uname, fname) VALUES ('$username', '$fname')";
         mysqli_query($conn, $sqlImg);
 
         header("Location: ../signup.php?signup=success");
